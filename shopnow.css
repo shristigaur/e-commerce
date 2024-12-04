@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("pro8.jpeg");
+    background-image: url("images/pro8.jpeg");
     background-position: right center;
     background-size: cover;
 }
@@ -28,7 +28,7 @@ body {
 
 /* Product Card */
 .product-card {
-    background-image: url("b.jpg");
+    background-image: url("images/b.jpg");
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 15px;
