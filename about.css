@@ -1,0 +1,52 @@
+/* Gerenal styles */
+.about {
+    margin: 200px;
+    background-image: url("fl2.jpg");
+    background-position: right center;
+    background-size: cover;
+    width: 150;
+    height: auto;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+.about{
+    transform: scale(1.05);
+}
+.about img{
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.about p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+body{
+    background-image: url("flower.jpg");
+    background-position: right center;
+    background-size: cover;
+}
+.back-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transforms 0.3s, background-color 0.3s ease;
+    position: absolute;
+    top: 10px;
+    right: 10px; 
+}
+.back-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+    box-shadow: 0px 8px 16px gray;
+}
