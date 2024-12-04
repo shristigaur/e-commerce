@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("water.jpeg");
+    background-image: url("images/water.jpeg");
     background-position: right center;
     background-size: cover;
     display: flex;
@@ -15,7 +15,7 @@ body {
 /* Thank You Container */
 .thank-you-container {
     text-align: center;
-    background-image: url("water5.jpeg");
+    background-image: url("images/water5.jpeg");
     background-position: right cover;
     background-size: cover;
     padding: 30px;
