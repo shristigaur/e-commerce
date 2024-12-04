@@ -5,12 +5,12 @@ padding: 0px;
 text-decoration: none;
 }
 body{
-    background-image: url("type.jpeg");
+    background-image: url("images/type.jpeg");
     background-position: right center;
     background-size: cover;
 }
 #option {
-    background-image: url("you.jpeg");
+    background-image: url("images/you.jpeg");
     background-position: right center;
     background-size: cover;
     display: block;
