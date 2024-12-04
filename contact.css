@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("pho.jpg");
+    background-image: url("images/pho.jpg");
     background-position: right center;
     background-size: cover;
     display: flex;
@@ -14,7 +14,7 @@ body {
 
 /* Contact Form Container */
 .contact-container {
-    background-image: url("pho3.jpeg");
+    background-image: url("images/pho3.jpeg");
     background-position: right center;
     background-size: cover;
     padding: 30px;
