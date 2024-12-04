@@ -18,7 +18,7 @@
 }
 .shape {
     text-align: center;
-    background-image: url("Pasted\ image.png");
+    background-image: url("images/Pasted\ image.png");
     background-position: right center;
     background-size: cover;
     display: block;
@@ -240,7 +240,7 @@
         display: inline-block;
     }
     body {
-        background-image: url("Pasted\ image\ \(7\).png");
+        background-image: url("images/Pasted\ image\ \(7\).png");
         background-position: right center;
         background-size: cover;
     }
