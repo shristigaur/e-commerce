@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("star.gif");
+    background-image: url("images/star.gif");
     background-position: right center;
     background-size: cover;
     display: flex;
@@ -14,7 +14,7 @@ body {
 
 /* Login Container */
 .login-container {
-    background-image: url("Pasted\ image\ \(9\).png");
+    background-image: url("images/Pasted\ image\ \(9\).png");
     background-position: right center;
     background-size: cover;
     padding: 30px;
